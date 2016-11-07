@@ -1,0 +1,12 @@
+.article-container {
+  max-width: 300px;
+  float: left;
+  margin-right: 20px;
+  margin-top: 20px; }
+
+.action-buttons {
+  float: right; }
+  .action-buttons a {
+    margin-left: 8px; }
+
+/*# sourceMappingURL=article1.css.map */

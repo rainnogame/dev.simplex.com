@@ -1,0 +1,3 @@
+<project name="make_project" basedir=".." default="build">
+
+</project>

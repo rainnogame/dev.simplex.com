@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,kBAAmB;EACjB,SAAS,EAAE,KAAK;EAChB,KAAK,EAAE,IAAI;EACX,YAAY,EAAE,IAAI;EAClB,UAAU,EAAE,IAAI",
+"sources": ["articleq.scss"],
+"names": [],
+"file": "articleq.css"
+}

@@ -1,0 +1,33 @@
+.article-container {
+  float: left;
+  margin-right: 20px;
+  margin-top: 20px; }
+
+.action-buttons {
+  float: right; }
+  .action-buttons a {
+    margin-left: 8px; }
+
+.box {
+  border-radius: 0; }
+  .box .box-header .box-title {
+    font-size: 24px; }
+
+.box-description {
+  padding-top: 10px; }
+
+.header-new-article {
+  float: left;
+  background: transparent none;
+  padding: 15px 15px;
+  font-family: fontAwesome;
+  color: #fff;
+  text-decoration: none; }
+  .header-new-article:hover {
+    outline: none;
+    text-decoration: none;
+    background-color: #357ca5; }
+    .header-new-article:hover i {
+      color: #fff; }
+
+/*# sourceMappingURL=article.css.map */

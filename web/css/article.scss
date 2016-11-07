@@ -1,0 +1,49 @@
+.article-container {
+  //max-width: 300px;
+  float: left;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.action-buttons {
+  a {
+    margin-left: 8px;
+    //width: 26px;
+    //height: 26px;
+    i {
+      //position: relative;
+      //bottom: 4px;
+      //right: 7px;
+    }
+  }
+  float: right;
+}
+
+.box {
+  border-radius: 0;
+  .box-header .box-title {
+    font-size: 24px;
+  }
+}
+
+.box-description {
+  padding-top: 10px;
+}
+
+.header-new-article {
+  float: left;
+  background: transparent none;
+  padding: 15px 15px;
+  font-family: fontAwesome;
+  color: #fff;
+  text-decoration: none;
+  &:hover {
+    outline: none;
+    text-decoration: none;
+    background-color: #357ca5;
+    i {
+      color: #fff;
+    }
+
+  }
+}
